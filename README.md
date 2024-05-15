@@ -3,7 +3,7 @@
 
 ## What This Project Does:
 
-This project helps improve the GPT-3.5 Turbo model's ability to answer questions based on a company handbook. By fine-tuning the model with a dataset generated from the handbook, we aim to make it better at providing accurate and helpful answers to questions about the company's policies, procedures, and other information found in the handbook.
+This project helps improve the GPT-3.5 Turbo model's ability to answer questions based on a company handbook. By fine-tuning the model with a dataset generated from the handbook, we aim to make it better at providing accurate and helpful answers to questions about the company's policies, procedures, and other information found in the handbook thus making it a valuable tool for employees and improving overall knowledge sharing within the organization.
 
 ## How to Use This Project:
 
@@ -26,28 +26,8 @@ LANGCHAIN_API_KEY = "API_KEY_HERE"
 
 3. Clone the company handbook repository.
 
-### Dataset Generation:
-
-Generate a dataset of questions and answers from the handbook.
-
-### Fine-Tuning:
-
-Fine-tune the GPT-3.5 Turbo model with the generated dataset.
-
-### Testing:
-
-Test the fine-tuned model by asking it questions about the handbook content.
-
-### Retrieval QA:
-
-Use a RetrievalQA chain to answer specific questions based on the handbook content.
-
 ### How This Helps:
 
 1. Employees can quickly find information in the handbook by asking the model questions.
 
 2. Improves accessibility and understanding of the handbook content.
-
-# Conclusion:
-
-By following the instructions in this README, you can enhance the GPT-3.5 Turbo model's ability to provide relevant and accurate answers to questions based on your company's handbook, making it a valuable tool for employees and improving overall knowledge sharing within the organization.
