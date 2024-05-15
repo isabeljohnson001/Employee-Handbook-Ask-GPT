@@ -24,7 +24,7 @@ OPEN_AI_API_KEY = "API_KEY_HERE"
 LANGCHAIN_API_KEY = "API_KEY_HERE"
 ```
 
-3. Clone the company handbook repository.
+3. Clone the repository and run the notebooks.
 
 ### How This Helps:
 
